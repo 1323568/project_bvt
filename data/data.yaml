@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 21
+names: ['Alpaca', 'Bat', 'Bee', 'Chicken', 'Cow', 'Creeper', 'Enderman', 'Frog', 'Goat', 'Horse', 'Mooshroom', 'Pig', 'Rabbit', 'Sheep', 'Skeleton', 'Spider', 'Turtle', 'Warden', 'Witch', 'Wolf', 'Zombie']
+
+roboflow:
+  workspace: ee-4800
+  project: mincraft-mob-detection
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ee-4800/mincraft-mob-detection/dataset/6

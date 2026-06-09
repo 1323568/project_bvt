@@ -1,0 +1,27 @@
+names:
+  0: Alpaca
+  1: Bat
+  2: Bee
+  3: Chicken
+  4: Cow
+  5: Creeper
+  6: Enderman
+  7: Frog
+  8: Goat
+  9: Horse
+  10: Mooshroom
+  11: Pig
+  12: Rabbit
+  13: Sheep
+  14: Skeleton
+  15: Spider
+  16: Turtle
+  17: Warden
+  18: Witch
+  19: Wolf
+  20: Zombie
+
+nc: 21
+path: C:/Users/Суслик/project_bvt/datasets/minecraft
+train: train/images
+val: valid/images
