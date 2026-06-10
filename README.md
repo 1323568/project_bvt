@@ -5,7 +5,7 @@
 
 ## Пример работы модели
 Ниже представлен пример детекции игрового объекта (Скелета) в среде Minecraft:
-![Детекция скелета в Minecraft]<img width="640" height="640" alt="detection_example" src="https://github.com/user-attachments/assets/a88979ff-e5f8-4c39-a98d-c12f8e4fd6b3" />
+<img width="640" height="640" alt="detection_example" src="https://github.com/user-attachments/assets/a88979ff-e5f8-4c39-a98d-c12f8e4fd6b3" />
 
 ## Выполненная работа
 - Подготовка и разметка датасета Minecraft;
