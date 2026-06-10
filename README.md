@@ -4,7 +4,7 @@
 
 ## Пример работы модели
 Ниже представлен пример детекции игрового объекта (Скелета) в среде Minecraft:
-![Детекция скелета в Minecraft]("project_bvt/runs\detect\trained_models\yolov8_minecraft\2023-04-17-10-19-20_mp4-14_jpg.rf.9dd30f521d625d70dc184de83b6eb5be.jpg")
+![Детекция скелета в Minecraft](test_images\detection_example.jpg)
 
 ## Выполненная работа
 - Подготовка и разметка датасета Minecraft;
