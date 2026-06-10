@@ -16,7 +16,6 @@
 ## Использованные архитектуры
 - YOLOv8
 - YOLOv11
-- YOLOv5
 - Faster R-CNN
 - DETR
 - SSD300
